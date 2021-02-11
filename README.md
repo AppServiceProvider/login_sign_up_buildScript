@@ -11,8 +11,8 @@
 Script uses Inline `DOCTYPE`
 
 ```
-autocapitalize
-maxlength
+autocapitalize="word"
+maxlength="6"
 
 ```
 ### function call ###
@@ -47,7 +47,7 @@ https://romanofficial.github.io/login_sign_up_buildScript/
 
 
 <h3 style="text-align: center; font-size: 35px; border: none">
-  <a href="https://github.com/romanofficial/login_sign_up_buildScript" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/romanofficial" target="_blank" style="text-decoration: none;">
     🔰 Open GitHub page 🔰
   </a>
 </h3>
