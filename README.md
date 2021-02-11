@@ -20,7 +20,7 @@ A very simple login form using animations in CSS, just for fun
 
 It can be seen at:
 
-[https://romanofficial.github.io/login_sign_up_buildScript/]
+https://romanofficial.github.io/login_sign_up_buildScript/
 
 
 <h3 style="text-align: center; font-size: 35px; border: none">
@@ -28,9 +28,3 @@ It can be seen at:
     🔰 Open GitHub page 🔰
   </a>
 </h3>
-
-
-function show() {
-            let snd = new Audio('https://drive.google.com/file/d/19qZ2Hxr_9zh7a2XSFHuJQUL-9RXVFGiH/view?usp=sharing');
-            snd.play()
-        }, 1000)
