@@ -1,12 +1,12 @@
-# css-login-form #
+# css login form #
 
 ## Animations css  ##
 
 ### script uses ###
 
-* Function
+* `Function`:
 
-* if else conditional 
+* `if else conditional`: 
 
 Script uses Inline `DOCTYPE`
 
@@ -15,8 +15,31 @@ autocapitalize
 maxlength
 
 ```
-A very simple login form using animations in CSS, just for fun 
+### function call ###
+```
+onkeydown="upperCaseF(this)"
+onclick="myFunction()" 
+onClick="window.location.reload();"
 
+```
+
+### alert play ###
+
+```
+function show() {
+            let snd = new Audio('url/src');
+            snd.play()
+        }, 1000)
+```
+
+
+### Followes design code ###
+
+**Malena Rey**
+
+* [github/malerey](https://github.com/malerey)
+
+A very simple login form using animations in CSS
 
 It can be seen at:
 
@@ -28,3 +51,4 @@ https://romanofficial.github.io/login_sign_up_buildScript/
     🔰 Open GitHub page 🔰
   </a>
 </h3>
+
